@@ -1,0 +1,17 @@
+TOP GEAR 1977 - COMMODORE PET ORIGINAL MODEL
+10 print "top gear - s0e1"
+20 print "air date: 22nd april 1977"
+30 print "first of a monthly series for road-users."
+40 print "segments include:"
+50 print "o ford capri test"
+60 print "o motorway meals"
+70 print "o speeding"
+
+
+TOP GEAR 1978 - COMMODORE PET 40 COLUMN
+10 print "top gear - s1e1"
+20 print "air date: 13th july 1978"
+30 print "the big holiday rush begins this weekend and many drivers plan to travel through friday night. how dangerous is this practice? what are the stress factor and what are the signs of fatigue? angela finds out for herself by night driving to the west country. twenty people are killed and over 200 seriously injured each week yet these figures could be cut to one tenth if we used our seat belts. should we leave it to persuasion or is compulsion the final answer?"
+40 print "segments include:"
+50 print "o driving overnight report"
+60 print "o seatbelt safety investigation"
