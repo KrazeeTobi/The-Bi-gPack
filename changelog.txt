@@ -1,0 +1,17 @@
+v24.11 - 11th of November, 2024
+o Did away with the old version number scheme because that was a retarded scheme.
+o First release of the new Bi gPack.
+
+================================================================================================================
+v24.12 - 1st of December, 2024
+
+ADDITIONS
+o Added prairie_ride (Dudhouse) and backyard (Obeame PSA Poster) paintings.
+o void (Callie) painting now has a custom block model.
+
+CHANGES
+o Updated alban (Bigfax), aztec (BBC Test Card), bomb (Olivia), pointer (Eggman's Tasty Mugshot), fighters (FIGHT!), void (Callie), plant (Jerry), and kebab (mazder) paintings.
+o Old fighters (Stripe's Family) moved to changing (Stripe's Family).
+
+FIXES
+o Fixed title texture being stretched.
